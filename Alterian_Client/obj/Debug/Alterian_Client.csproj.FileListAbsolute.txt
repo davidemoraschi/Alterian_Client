@@ -1,0 +1,15 @@
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Interop.COMSERVERLib.dll
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Alterian_Client.csproj.ResolveComReference.cache
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Alterian_Client.Form1.resources
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Alterian_Client.Properties.Resources.resources
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Alterian_Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\bin\Debug\Alterian_Client.exe
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\bin\Debug\Alterian_Client.pdb
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\bin\Debug\Interop.COMSERVERLib.dll
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Alterian_Client.exe
+C:\Documents and Settings\upddm0\Configuración local\Datos de programa\Temporary Projects\Alterian_Client\obj\Debug\Alterian_Client.pdb
+I:\My DropBox\Visual Studio 2008\Projects\Alterian_Client\Alterian_Client\obj\Debug\Interop.COMSERVERLib.dll
+I:\My DropBox\Visual Studio 2008\Projects\Alterian_Client\Alterian_Client\obj\Debug\Alterian_Client.csproj.ResolveComReference.cache
+I:\My DropBox\Visual Studio 2008\Projects\Alterian_Client\Alterian_Client\obj\Debug\Alterian_Client.exe
+I:\My DropBox\Visual Studio 2008\Projects\Alterian_Client\Alterian_Client\obj\Debug\Alterian_Client.pdb
